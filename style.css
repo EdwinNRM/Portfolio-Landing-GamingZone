@@ -61,7 +61,7 @@ main{
 h2{
     font-size: 48px;
     line-height: 10px;
-    font-family: fantasy;
+    font-family: sans-serif;
 }
 
 span{
@@ -71,7 +71,7 @@ span{
 P{
     line-height: 20px;
     max-width: 500px;
-    font-family: fantasy;
+    font-family: sans-serif;
 }
 
 img{
